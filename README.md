@@ -98,5 +98,3 @@ This project is licensed under the [MIT License](LICENSE).
 Thanks to the developer community for sharing insights on cache management, macOS sandboxing, and environment variable configuration that made this project possible.
 
 ---
-
-Feel free to adjust the content as needed for your project.
