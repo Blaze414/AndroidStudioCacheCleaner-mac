@@ -1,4 +1,4 @@
-# AndroidDevCacheCleaner
+# Android Dev Cache Cleaner
 
 AndroidDevCacheCleaner is a macOS application designed for developers using Android Studio, Flutter, and Kotlin projects. It helps you clear out various caches that can slow down your builds and reduce the remaining storage space available on your Mac. The app automatically detects and cleans global caches (such as Android Studio caches, Gradle caches, and Flutter Pub Cache) and also scans a user-selected directory to locate individual Flutter/Kotlin projects so you can run project-specific cleaning (e.g., `flutter clean`).
 
