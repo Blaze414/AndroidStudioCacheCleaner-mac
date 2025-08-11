@@ -2,9 +2,12 @@ import SwiftUI
 
 @main
 struct AndroidDevCacheCleanerApp: App {
+    @StateObject private var settings = AppSettings()
+
     var body: some Scene {
         WindowGroup {
-            ContentView() // Main TabView is loaded here.
+            ContentView()
+                .environmentObject(settings)
         }
     }
 }

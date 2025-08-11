@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'AndroidDevCacheCleaner' in project 'AndroidDevCacheCleaner' (no dependencies)

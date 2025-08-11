@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "da7364083addecf1ce5048625d68560a8d0a2ba90a6c68f4f0ee99e459b806c8"
+    }
+  ],
+  "containerPath" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/AndroidDevCacheCleaner.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "macosx",
+      "sdk" : "macosx26.4",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Products",
+      "derivedDataPath" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build",
+      "indexDataStoreFolderPath" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGN_IDENTITY" : "-",
+          "CODE_SIGNING_ALLOWED" : "NO",
+          "CODE_SIGNING_REQUIRED" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

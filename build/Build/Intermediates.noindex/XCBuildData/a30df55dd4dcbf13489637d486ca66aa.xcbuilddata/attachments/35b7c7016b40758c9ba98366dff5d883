@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleaner-primary.dia",
+    "emit-module-dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleaner-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleaner-primary-emit-module.dia",
+    "pch" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleaner-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleaner-primary.swiftdeps"
+  },
+  "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/AndroidDevCacheCleaner/AndroidDevCacheCleanerApp.swift" : {
+    "const-values" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleanerApp.swiftconstvalues",
+    "dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleanerApp.d",
+    "diagnostics" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleanerApp.dia",
+    "index-unit-output-path" : "/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleanerApp.o",
+    "llvm-bc" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleanerApp.bc",
+    "object" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleanerApp.o",
+    "swift-dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleanerApp.swiftdeps",
+    "swiftmodule" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/AndroidDevCacheCleanerApp~partial.swiftmodule"
+  },
+  "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/AndroidDevCacheCleaner/ContentView.swift" : {
+    "const-values" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/AndroidDevCacheCleaner/GlobalCacheCleanerView.swift" : {
+    "const-values" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GlobalCacheCleanerView.swiftconstvalues",
+    "dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GlobalCacheCleanerView.d",
+    "diagnostics" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GlobalCacheCleanerView.dia",
+    "index-unit-output-path" : "/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GlobalCacheCleanerView.o",
+    "llvm-bc" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GlobalCacheCleanerView.bc",
+    "object" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GlobalCacheCleanerView.o",
+    "swift-dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GlobalCacheCleanerView.swiftdeps",
+    "swiftmodule" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GlobalCacheCleanerView~partial.swiftmodule"
+  },
+  "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/AndroidDevCacheCleaner/Item.swift" : {
+    "const-values" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/AndroidDevCacheCleaner/LiquidGlass.swift" : {
+    "const-values" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/LiquidGlass.swiftconstvalues",
+    "dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/LiquidGlass.d",
+    "diagnostics" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/LiquidGlass.dia",
+    "index-unit-output-path" : "/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/LiquidGlass.o",
+    "llvm-bc" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/LiquidGlass.bc",
+    "object" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/LiquidGlass.o",
+    "swift-dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/LiquidGlass.swiftdeps",
+    "swiftmodule" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/LiquidGlass~partial.swiftmodule"
+  },
+  "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/AndroidDevCacheCleaner/ProjectCleanerView.swift" : {
+    "const-values" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ProjectCleanerView.swiftconstvalues",
+    "dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ProjectCleanerView.d",
+    "diagnostics" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ProjectCleanerView.dia",
+    "index-unit-output-path" : "/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ProjectCleanerView.o",
+    "llvm-bc" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ProjectCleanerView.bc",
+    "object" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ProjectCleanerView.o",
+    "swift-dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ProjectCleanerView.swiftdeps",
+    "swiftmodule" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/ProjectCleanerView~partial.swiftmodule"
+  },
+  "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/alzadidyusuf/Documents/AndroidStudioCacheCleaner-mac/build/Build/Intermediates.noindex/AndroidDevCacheCleaner.build/Debug/AndroidDevCacheCleaner.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
