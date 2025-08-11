@@ -5,6 +5,8 @@ AndroidDevCacheCleaner is a macOS application designed for developers using Andr
 > **Warning:** Cleaning caches may slow down your next build since files and packages will be re-downloaded or recompiled.
 
 ---
+<img width="1986" height="1608" alt="CleanShot 2025-08-11 at 10 49 27@2x" src="https://github.com/user-attachments/assets/7bfcb81f-e7db-4466-830e-e2ce871007a5" />
+
 
 ## Features
 
